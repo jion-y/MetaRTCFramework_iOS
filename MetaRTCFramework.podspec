@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MetaRTCFramework'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'MetaRTCFramework Release'
 
 # This description is used to generate tags and improve search results.
@@ -21,16 +21,16 @@ Pod::Spec.new do |s|
          MetaRTCFramework ios  framework
                  DESC
 
-  s.homepage         = 'https://gitee.com/meta-rti/metaRTCFramework_ios'
+  s.homepage         = 'https://github.com/jion-y/MetaRTCFramework_iOS.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'meta-rit' => 'liuming@wuji.co' }
-  s.source           = { :git => 'https://gitee.com/meta-rti/metaRTCFramework_ios.git', :tag => s.version.to_s }
+  s.author           = { 'meta-rit' => 'jion-y' }
+  s.source           = { :git => 'https://github.com/jion-y/MetaRTCFramework_iOS.git.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
 
-#  s.source_files = 'zfz_wujiframework/Classes/**/*'
+#  s.source_files = 'MetaRTCFramework/Classes/**/*'
 
   s.vendored_frameworks = 'MetaRTCFramework/*.{framework}'
   s.pod_target_xcconfig = {
