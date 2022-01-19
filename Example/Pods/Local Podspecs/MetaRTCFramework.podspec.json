@@ -1,0 +1,44 @@
+{
+  "name": "MetaRTCFramework",
+  "version": "0.1.1",
+  "summary": "MetaRTCFramework Release",
+  "description": "MetaRTCFramework ios  framework",
+  "homepage": "https://gitee.com/meta-rti/metaRTCFramework_ios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "meta-rit": "liuming@wuji.co"
+  },
+  "source": {
+    "git": "https://gitee.com/meta-rti/metaRTCFramework_ios.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "vendored_frameworks": "MetaRTCFramework/*.{framework}",
+  "pod_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
+  "user_target_xcconfig": {
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
+  },
+  "frameworks": [
+    "UIKit",
+    "MapKit",
+    "OpenGLES",
+    "Metal",
+    "SystemConfiguration",
+    "CoreTelephony",
+    "CoreAudio",
+    "AudioToolbox",
+    "GLKit",
+    "VideoToolbox"
+  ],
+  "libraries": [
+    "resolv",
+    "c++"
+  ]
+}

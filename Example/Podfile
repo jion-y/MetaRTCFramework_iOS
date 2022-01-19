@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MetaFrameWorkDemo_Tests' do
+  pod 'MetaRTCFramework', :path => '../'
+  
+  
+end
