@@ -5184,6 +5184,24 @@ exceed the set value, the new output log files overwrite the old output log file
  */
 - (int)setParameters:(NSString *_Nonnull)options;
 
+
+/**-----------------------------------------------------------------------------
+ * @name Customized Methods (Technical Preview)
+ * -----------------------------------------------------------------------------
+ */
+
+/** Provides the technical preview functionalities or special customizations by configuring the SDK
+ with JSON options.
+
+ **Note:**
+
+ The JSON options are not public by default. Meta is working on making commonly used JSON options
+ public in a standard way. Contact [support@meta.io](mailto:support@meta.io) for more information.
+
+ @param options SDK options in JSON format.
+ */
++ (int)setParameters:(NSString * _Nonnull)options;
+
 /** Retrieves the SDK's parameters for customization purposes.
 
  **Note:**

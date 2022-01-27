@@ -12,10 +12,6 @@
 		<data>
 		7kl8m8Oup3l7C0EmPxnkld+/NuU=
 		</data>
-		<key>Headers/IMetaP2p.h</key>
-		<data>
-		4AY/mUlb9fcMFG/ey3IdR97USiw=
-		</data>
 		<key>Headers/IMetaRtcChannel.h</key>
 		<data>
 		dJQHzk85obhNqBQcJLEhFUsa4Ik=
@@ -94,7 +90,7 @@
 		</data>
 		<key>Headers/MetaRtcEngineKit.h</key>
 		<data>
-		MDdrUyLKDiGH6XgoEcPAiysVORc=
+		6ikUcIxyYrS7T6EKHWE7Q10TcvM=
 		</data>
 		<key>Headers/MetaRtmCallKit.h</key>
 		<data>
@@ -135,17 +131,6 @@
 			<key>hash2</key>
 			<data>
 			uPLWJwmOqiel8RtoQdzBulx8nlyq1hWsllnVRC0xbvE=
-			</data>
-		</dict>
-		<key>Headers/IMetaP2p.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4AY/mUlb9fcMFG/ey3IdR97USiw=
-			</data>
-			<key>hash2</key>
-			<data>
-			WCpTi+jdiKQq36pxdB7500Kq4bGm6HmAIp5jKh5CG1k=
 			</data>
 		</dict>
 		<key>Headers/IMetaRtcChannel.h</key>
@@ -361,11 +346,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MDdrUyLKDiGH6XgoEcPAiysVORc=
+			6ikUcIxyYrS7T6EKHWE7Q10TcvM=
 			</data>
 			<key>hash2</key>
 			<data>
-			FAqEmArWoer5pNd8bm1d3Kx+dYFQGKX665u78yVl/No=
+			WiSpd6maIPZzBzj3QpNsCMQAOjJsB7QFNpfH9sJQ0lk=
 			</data>
 		</dict>
 		<key>Headers/MetaRtmCallKit.h</key>
