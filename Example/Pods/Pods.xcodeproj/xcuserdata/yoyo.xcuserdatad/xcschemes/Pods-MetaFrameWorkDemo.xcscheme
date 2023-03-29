@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1240"
+   LastUpgradeVersion = "1300"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "85CDCFD86CA2FC18169437944D6E0098"
-               BuildableName = "Pods_MetaFrameWorkDemo_Tests.framework"
-               BlueprintName = "Pods-MetaFrameWorkDemo_Tests"
+               BlueprintIdentifier = "E14A5A22B206B05992E55FFE08508DBD"
+               BuildableName = "Pods_MetaFrameWorkDemo.framework"
+               BlueprintName = "Pods-MetaFrameWorkDemo"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

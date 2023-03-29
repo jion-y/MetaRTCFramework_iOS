@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_MetaFrameWorkDemo_TestsVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_MetaFrameWorkDemo_TestsVersionString[];
+FOUNDATION_EXPORT double Pods_MetaFrameWorkDemoVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_MetaFrameWorkDemoVersionString[];
 

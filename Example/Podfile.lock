@@ -1,16 +1,3 @@
-PODS:
-  - MetaRTCFramework (0.1.1)
+PODFILE CHECKSUM: 9c356f9c54d677ee6afa35bdac0451561907ce90
 
-DEPENDENCIES:
-  - MetaRTCFramework (from `../`)
-
-EXTERNAL SOURCES:
-  MetaRTCFramework:
-    :path: "../"
-
-SPEC CHECKSUMS:
-  MetaRTCFramework: 8d81d6b6927e3f00e3897ff54466f8e32dc52ac7
-
-PODFILE CHECKSUM: a3ecdeefbe53c111ec068fe3b9408cdcec2f6ddb
-
-COCOAPODS: 1.11.2
+COCOAPODS: 1.11.3
