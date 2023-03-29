@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MetaRTCFramework'
-  s.version          = '0.1.9'
+  s.version          = '0.2.0'
   s.summary          = 'MetaRTCFramework Release'
 
 # This description is used to generate tags and improve search results.
@@ -31,7 +31,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '10.0'
 
 
-  s.vendored_frameworks = 'MetaRTCFramework/*.{framework}'
   s.pod_target_xcconfig = {
       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
     }
