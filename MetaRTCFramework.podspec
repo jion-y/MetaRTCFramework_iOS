@@ -8,7 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MetaRTCFramework'
-  s.version          = '2.2.1.0'
+
+  s.version          = '0.2.3'
   s.summary          = 'MetaRTCFramework Release'
 
 # This description is used to generate tags and improve search results.
@@ -26,6 +27,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'meta-rit' => 'jion-y' }
   s.source           = { :http => 'https://download.wuji.co/sdk/release/iOS/Meta_Native_SDK_for_iOS_v2_2_1_0_FULL.zip',:type => 'zip'}
+
 
 
   s.ios.deployment_target = '10.0'
